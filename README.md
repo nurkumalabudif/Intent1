@@ -1,5 +1,7 @@
 # Intent1
 # ScreenShoot Aplikasi
+![i1](https://github.com/nurkumalabudif/Intent1/blob/master/i1.jpg)
+![i1.1](https://github.com/nurkumalabudif/Intent1/blob/master/i1.1.jpg)
 # Identitas
 * Nama = NURKUMALA BUDI FAJRIN 
 * Kelas = XIRPL5 
